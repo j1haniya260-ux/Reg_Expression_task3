@@ -1,6 +1,6 @@
 MON 08:15-09:45 217 Java Programming
 TUE 10:00-11:30 105 Data Structures 
-WED 12:00-13:30 312 Сloud Computing
+WED 12:00-13:30 312 Cloud Computing
 THU 14:00-15:30 004 Operating Systems
 FRI 08:15–09:45 220 Software Engineering
 MON 1O:00-11:30 204 Machine Learning
